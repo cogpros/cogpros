@@ -2,6 +2,8 @@
 
 Cognitive prosthetics for AI-assisted work. This is the open-source account of [Raven Systems Inc.](https://ravenai.ca) (Dustin Pollock, Saskatchewan, Canada). The tools here hold state, gate untrusted input, run adversarial review, and measure what AI work actually produces.
 
+**New here? Start with [Getting Started](GETTING-STARTED.md)** — four entry paths by the problem you have.
+
 ## The repos, by what they do
 
 ### Measure and orient
